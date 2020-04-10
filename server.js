@@ -7,3 +7,5 @@ app.get('/', (req, res) => {
 app.listen(3001, () => {
     console.log('api rodando na porta 3001');
 });
+
+// Alterado arquivo server;
